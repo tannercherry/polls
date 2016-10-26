@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bbe5d116-b449-45d9-9417-068df48ea1f9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/polls/results.html" afterPath="$PROJECT_DIR$/templates/polls/results.html" />
     </list>
     <ignored path="pollsApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -492,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1477502763788</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;deleted test&quot;">
+      <created>1477502795783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1477502795783</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -541,7 +547,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;added 'meager'&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;added 'meager'&quot;" />
+    <MESSAGE value="&quot;deleted test&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;deleted test&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
