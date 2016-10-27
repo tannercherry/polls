@@ -1,1 +1,1 @@
-web: python pollsApp/manage.py runserver
+web: gunicorn pollsApp.wsgi
